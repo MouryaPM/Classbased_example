@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  margin: 0;
+  background-color: #3f3f3f;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  background: crimson;
+  color: white;
+  border: 1px solid crimson;
+  border-radius: 6px;
+  padding: 0.75rem 2rem;
+}
